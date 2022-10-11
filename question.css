@@ -1,0 +1,36 @@
+.header {
+    color: green;
+    height: 50px;
+    width: 860px;
+    margin-bottom: 8px;
+}
+.navigation {
+    color: green;
+    height: 50px;
+    width: 860px;
+    margin-bottom: 8px;
+}
+.Content {
+    color: green;
+    height: 400px;
+    width: 250px;
+    margin-right: 2px;
+
+}
+.main {
+    color: green;
+    height: 400px;
+    width: 350px;
+    margin-right: 2px;
+}
+.con {
+    color: green;
+    height: 400px;
+    width: 250px;
+    margin-bottom: 8px;
+}
+.footer {
+    color: green;
+    height: 50px;
+    width: 860px;
+}
